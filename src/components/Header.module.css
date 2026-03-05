@@ -1,0 +1,108 @@
+.logo{
+  width: 200px;
+  height: 55px;
+}
+
+.menuLink{
+  font-size: 18px;
+}
+
+.menuLink:hover{
+  cursor: pointer;
+}
+
+.dropdown-item {
+  position: relative;
+  text-decoration: none;
+}
+
+.dropdown-item:hover{
+  background-color: #ffffff !important;
+    color: #ed1c24 !important;
+}
+
+/* hidden border */
+.dropdown-item::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0%;
+  height: 2px;
+  background-color: #ed1c24; /* Bootstrap primary color */
+  transition: width 0.7s ease;
+}
+
+/* animate on hover */
+.dropdown-item:hover::after {
+  width: 100%;
+}
+
+.menuBar{
+  color: white;
+  width: 32px;
+  height: 32px;
+}
+
+.selected{
+  color: #ed1c24;
+  font-weight: bold;
+}
+
+.mobileNav{
+  display: none !important;
+  opacity: 0 !important;
+}
+
+.mobileMenuDiv{
+  background-color: #2f2f2f;
+  color: #ffffff
+}
+
+.crossClose{
+  background-color: #ffffff;
+  color: #2f2f2f;
+  font-size: 32px;
+}
+
+.webNav{
+  display: flex;
+}
+
+
+
+/* Right slide modal */
+.modal.modal-right .modal-dialog {
+  position: fixed;
+  top: 0;
+  right: 0;
+  margin: 0;
+  height: 100%;
+  width: 400px; /* change width as needed */
+  transform: translateX(100%) !important;
+  transition: transform 0.3s ease-out !important;
+}
+
+/* When modal opens */
+.modal.modal-right.show .modal-dialog {
+  transform: translateX(0) !important;
+}
+
+/* Full height content */
+.modal.modal-right .modal-content {
+  height: 100%;
+  border-radius: 0;
+}
+
+@media screen and (max-width: 1000px) {
+  
+.mobileNav{
+  display: flex !important;
+  opacity: 1 !important;
+}
+
+.webNav{
+display: none !important;
+}
+
+}

@@ -1,0 +1,121 @@
+{
+  "pages": [        
+    {
+      "id": "page2",
+      "title": "About",
+      "sections": [
+        {
+         "title" : "About",
+         "imageLink" : "https://www.thinkinno.com/wp-content/uploads/2023/08/BannerImage.jpg"
+        },
+        {
+          "title1" : "About",
+          "title2" : "Who we are",
+          "title3" : "100 +",
+          "title4" : "CLIENTS",
+          "subheading" : "Thinkinno Technologies Private Limited is India based Software Solutions Company. With expertise in Project Management, Designing, Usability, Business Analysis, Development and Testing in the field of Software Development, we provide software development and maintenance services Globally. We are also considered offshore development partners and support multiple applications of our client globally and locally. We have provided software solutions and transformed the ideas into reality in various sectors.",
+          "button" : "Our Services",
+          "imageLink1" : "https://www.thinkinno.com/wp-content/uploads/2023/09/whoweare-1.jpg",
+          "imageLink2" : "https://www.thinkinno.com/wp-content/uploads/2023/10/whoweare2.jpg"
+        },
+        {
+          "title1" : "Serving Globally"
+        },
+        {
+          "title1" : "CORE VALUES",
+          "title2" : "We live by our",
+          "title3" : "CORE VALUES",
+          "subheading1" : "We genuinely believe that our Core Values are the strong base for the overall Purpose and Growth of our Clients, Our Team, and Our Company.",
+          "subheading2" : "Lifelong Relationship",
+          "subheading3" : "Continuous Improvement",
+          "subheading4" : "Your Success is Our Success",
+          "subheading5" : "Add Value … Consistently", 
+          "imageLink1" : "https://www.thinkinno.com/wp-content/uploads/2023/07/team.png",
+          "imageLink2" : "https://www.thinkinno.com/wp-content/uploads/2023/07/performance.png",
+          "imageLink3" : "https://www.thinkinno.com/wp-content/uploads/2023/07/success.png",
+          "imageLink4" : "https://www.thinkinno.com/wp-content/uploads/2023/07/hand.png"
+        },
+        {
+          "title1" : "Sectors Served",
+          "title2" : "Lead Management & CRM",
+          "title3" : "Banking & Finance",
+          "title4" : "Real Estate",
+          "title5" : "Food Industry",
+          "title6" : "Cargo & Logistic",
+          "title7" : "Data Management (USA FDIC Data)",
+          "title8" : "MS Office AddIn",
+          "title9" : "Construction",
+          "title10" : "Health & Nutrition",
+          "title11" : "Wholesaler & retailer"
+
+        }
+      ]
+    }
+  ],
+
+  "header" : {
+    "imageLink1" : "https://www.thinkinno.com/wp-content/uploads/2023/07/cropped-Thinkinno_logo_500.png",
+    "nav1" : "Home",
+    "nav2": "About",
+    "nav3" : "Services",
+    "nav4" : {
+      "title" : "Solutions",
+      "menu1" : "LeadVictor – lead management system",
+      "menu2" : "DigiCard – An online visiting card",
+      "menu3" : "LMS – loan management system",
+      "menu4" : "Cargo Tracking System",
+      "menu5" : "KAMS – Key Account Management System",
+      "menu6" : "QMS – Quotation Management System",
+      "menu7" : "eCommerce"
+    },
+    "nav5" : "Testimonials",
+    "nav6" : "Case Studies",
+    "nav7" : {
+      "title" :  "Careers",
+      "menu1" : "Current Openings",
+      "menu2" : "Life @ Thinkinno"
+    },
+    "nav8" : "Contact"
+  },
+
+  "footer" : [
+    {
+      "title1" : "EMAIL:",
+      "subheading" : "info@thinkinno.com",
+      "button" : "Contact Us"
+    },
+    [
+      {
+        "title1" : "About Company",
+        "subheading" : "Thinkinno Technologies Private Limited is India based Software Solutions Company, incorporated in 2013. Our team is specialized in developing software solutions and exploit the same to develop faster and better."
+      },
+      {
+        "title2" : "Quick Links",
+        "menu1" : "Home",
+        "menu2" : "About Us",
+        "menu3" : "Services",
+        "menu4" : "Solutions",
+        "menu5" : "Testimonials",
+        "menu6" : "Contact Us",
+        "menu7" : "Blog"
+       },
+       {
+        "title" : "Solutions",
+        "menu1" : "Lead Mgmt. & CRM",
+        "menu2" : "DigiCard",
+        "menu3" : "Loan Mgmt.",
+        "menu4" : "Cargo Tracker",
+        "menu5" : "Account Mgmt.",
+        "menu6" : "Quotation Mgmt."
+       },
+
+       {
+        "title" : "Contact",
+        "subheading" : "601, Sanghvi Jewel, Off. S.V. Road, Malad West,Mumbai – 400064. India.",
+        "link1" : "info@thinkinno.com",
+        "copyright" : "Copyright © Thinkinno Technologies Pvt. Ltd.  2026 All Right Reserved | Privacy Policy"
+
+       }
+    ]
+  ]
+}
