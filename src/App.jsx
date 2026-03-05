@@ -53,7 +53,7 @@ function App() {
     <>
     <div className='headerTopPadding'>
       <Header  />
-      <Routes>
+      {/* <Routes>
         <Route path="/" element={<Home/>} />
         <Route path='/about' element={<About/>} />
         <Route path='/services' element={<Services />} />
@@ -70,7 +70,8 @@ function App() {
         <Route path='/careers' element={<Careers/>} />
         <Route path='/lifeThinkinno' element={<LifeThinkinno/>} />
         <Route path='/contact' element={<Contact/>}  />
-      </Routes>
+      </Routes> */}
+      
       <Footer />
       </div>
     </>
