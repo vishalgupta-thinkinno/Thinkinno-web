@@ -52,7 +52,7 @@ function App() {
   return (
     <>
     <div className='headerTopPadding'>
-      {/* <Header  /> */}
+     <Header  /> 
       <Routes>
         <Route path="/" element={<Home/>} />
         <Route path='/about' element={<About/>} />
