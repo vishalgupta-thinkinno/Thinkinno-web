@@ -1,121 +1,475 @@
 {
-  "pages": [        
+  "pages": [
+    {
+      "id": "page1",
+      "title": "Home",
+      "sections": [
+        {
+          "Hero": [
+            {
+              "title": "Welcome to Thinkinno Technologies",
+              "subtext1": "Our Thinking: Costumer centric",
+              "subtext2": "Our Mantra: Timely Delivery & Great Quality",
+              "subtext3": "Our Passion: Value Addition & Innovative Solutions",
+              "paragraph": "Whether you are looking for a solution in your business or you have an idea to change the world... We can make it happen.",
+              "button": "Let's Connect"
+            },
+            {
+              "title": "We Develop",
+              "subtitle": "Custom Software Solutions & Provide Ready Solutions",
+              "button": "Learn more"
+            },
+            {
+              "title": "We Believe",
+              "subtitle": "Your Success Is Our Success",
+              "paragraph1": "Have an existing project for us...",
+              "paragraph2": "Awesome! We'd love to hear about it.",
+              "button": "Contact Us"
+            },
+            {
+              "FacebookLink": "https://www.facebook.com/ThinkinnoTechnologies",
+              "LinkedinLink": "https://www.linkedin.com/company/thinkinno-technologies-pvt-ltd/?viewAsMember=true",
+              "GooglereviewLink": "https://www.google.com/search?q=thinkinno&rlz=1C1CHBF_enIN1142IN1142&oq=thinkinno+&gs_lcrp=EgZjaHJvbWUqDAgAEEUYOxiABBiiBDIMCAAQRRg7GIAEGKIEMgYIARBFGDsyEAgCEC4YrwEYxwEYgAQYjgUyBggDEEUYPDIGCAQQRRhBMgYIBRBFGDwyBggGEEUYQTIGCAcQRRg80gEIMjAwOWoxajeoAgCwAgA&sourceid=chrome&ie=UTF-8#mpd=~7140439383348296584/customers/reviews"
+            }
+          ]
+        },
+        {
+          "title": "Services",
+          "heading": "Our Services",
+          "subtext": "Varied varieties of services to enable your business growth.",
+          "cards": [
+            {
+              "title1": "Web Apps",
+              "subtext": "The custom-based web application projects help to take care of the problems/challenges in the business or to increase customer delight."
+            },
+            {
+              "title2": "Mobile Apps",
+              "subtext": "The custom-based mobile applications help to take care of the problems/challenges in the business to perform, monitor, enable better decisions, and meet their business goals."
+            },
+            {
+              "title3": "AI-based Apps",
+              "subtex": "Experience AI in action with LIVE projects, from Speech to Text, Text to Speech, Face Recognition, Object Recognition, Data Analytics, Predictive Analytics, Knowledgebank Search, and much more."
+            },
+            {
+              "title4": "AI-based Apps",
+              "subtext": "We know how to apply unique ideas in any capacity. If your business requires attention, we can help develop a solution that tackles the problem in an innovative way."
+            },
+            {
+              "title5": "Software Testing Services",
+              "subtext": "You got the project developed but need help testing it. We can test your project manually and through scripts and can give your a list of errors in your project."
+            },
+            {
+              "title6": "Financed Based Projects",
+              "subtext": "Developed various projects like Will Mgmt., Loan Mgmt., Competitive Analysis, Forecasting, Interest Rate Risk Mgmt., Goal Mgmt., FDIC Data Analysis, Banks Budgeting & much more."
+            }
+          ]
+        },
+        {
+          "title1": "100 +",
+          "subtitle": "Happy Clients",
+          "title2": "50 +",
+          "subtitle2": "Testimonials",
+          "title3": "4.8 +",
+          "subtitle3": "Google Ratings",
+          "title4": "50 +",
+          "subtitle4": "Unique Applications"
+        },
+        {
+          "title1": "Our Process",
+          "subtitle": "Clearly explained steps for easy understanding",
+          "iconTitle": "Organize",
+          "iconTitle2": "Plan",
+          "iconTitle3": "Execute",
+          "iconTitle4": "Deliver"
+        },
+        {
+          "imageLink": "https://www.thinkinno.com/wp-content/uploads/2023/07/iPad-showcase-1.png.webp",
+          "title": "Well, the way we develop, makes a difference. Have a glance at some interesting points that are desirable in every projects.",
+          "iconTitle1": "First Time Right",
+          "subtitle1": "We focus on doing the right thing in our first attempt, in this way we avoid re-analysis, re-coding, re-testing and re-deployment, thus avoiding the overall delay in implementation. Refer our blog on being first time right.",
+          "iconTitle2": "User Interface Design",
+          "subtitle2": "Our focus on creative design, usability and modern web standards sets us apart. We develop with the user in mind, and enable users to meet their goals. We design and develop for screens of all sizes applying responsive, modern web standards to ensure that all browsers and devices display the content properly.",
+          "iconTitle3": "What are the key feature of our software development approach?",
+          "subtitle3": "Process oriented development methodology Projects execution using Agile and Waterfall model as applicable Structured and managed requirement gathering/definition process Usage of latest Technologies/Tools for effective delivery Strong emphasis on QualityRigorous processes for timely delivery",
+          "iconTitle4": "What have we done so far?",
+          "subtitle4": [
+            "Competitive Analysis for Banks",
+            "Forecasting",
+            "Online Will Management",
+            "Food Franchise Order Management",
+            "Loan Management System",
+            "Budgeting Application",
+            "Realty Management",
+            "Goal Management",
+            "Interior Designers System",
+            "Risk Analysis System",
+            "Cargo Tracker",
+            "Strategy Planning & Execution",
+            "Traffic Counting System",
+            "Wholesale Retail Order Management",
+            "Market Analysis",
+            "Many More…"
+          ]
+        },
+        {
+          "title1": "100+ Years of cumulative Experience of developing Software Solutions",
+          "subtitle": "Web Apps | Mobile Apps | MS Office Add-ins | Manual Testing | Automated Testing | Consulting"
+        },
+        {
+          "title": "Testimonial",
+          "heading": "What Clients' Says",
+          "testimonials": [
+            {
+              "title" : "Project - Customized Applications",
+              "subtitle" : "Love this company. This company is an extension of our own and their input and feedback have been invaluable to the success of this product.",
+              "Name" : "Mr. C Hartman",
+              "Company" : "CEO/Plansmith Corporation"
+            },
+            {
+              "title": "Project - Customized Applications",
+              "subtitle": "There is a difference between hiring a company to program or hiring people to help you develop the best product you can offer your clients.",
+              "Name": "Ms. Susan West",
+              "Company": "President & COO / Plansmith Corporation"
+            },
+            {
+              "title": "Project - Customized Applications",
+              "subtitle": "We reached out to Thinkinno when we were in the midst of changing our original vendor for the maintenance of our product. I highly recommend Thinkinno.",
+              "Name": "Ms. Gargi Bhave",
+              "Company": "Ameretat Technologies Pvt. Ltd. (India)"
+            },
+            {
+              "title" : "Project - Multiple Customized Applications",
+              "subtitle" : "Worked with Thinkinno for the first time after a recommendation from a friend. Working with the team was great. ",
+              "Name" : "Mr. Preetish Gupta",
+              "Company" : "Doodle CMS"
+            },
+            {
+              "title" : "Project - Customized Applications",
+              "subtitle" : "Thinkinno has grown with Plansmith and vise versa for over 11 years. Great friends continue to provide the skills required for our unique needs.",
+              "Name" : "Mr. C Hartman",
+              "Company"  : "Plansmith Corporation"
+            }
+          ]
+        },
+        {
+          "title" : "Our Clients",
+          "logo1" : [
+            "https://www.thinkinno.com/wp-content/uploads/2025/05/Plansmith-RGB_01Transparent.png",
+            "https://www.thinkinno.com/wp-content/uploads/2025/05/HDFC-logo-1536x1536.png",
+            "https://www.thinkinno.com/wp-content/uploads/2025/05/kotak-logo.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2025/02/Almond-Estate.png",
+            "https://www.thinkinno.com/wp-content/uploads/2025/02/Alpha-Capital.png",
+            "https://www.thinkinno.com/wp-content/uploads/2025/02/Aprep-Academy.png",
+            "https://www.thinkinno.com/wp-content/uploads/2025/02/Art-Effect-Tattos.png",
+            "https://www.thinkinno.com/wp-content/uploads/2025/02/Breazy-Marketing.png",
+            "https://www.thinkinno.com/wp-content/uploads/2023/07/ascendcowork.png",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/brite_services.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/ChiragFadia-Image-Solutions.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/cosmic-consultant.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/digifish.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/Dolar-EnggIndusPvtLtd.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/earthwalker-1.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/Empower-Now-Logo.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/marcus-group-logo-2.png",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/MeltwaterEvents.png",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/Native-Ninja.png",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/NehalParekh-F2Funds.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/papernfilms.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/PinnacleFinance.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/PinnacleLoans.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/PrezziePrecious.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/VGranted-Michelle-Grant.png",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/WHealth.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/X-CodefixLogo.png"
+          ],
+          "logo2" : [
+            "https://www.thinkinno.com/wp-content/uploads/2025/02/Escape-Mission-Tours-Travels.png",
+            "https://www.thinkinno.com/wp-content/uploads/2025/02/Fidean-Technologies.png",
+            "https://www.thinkinno.com/wp-content/uploads/2025/02/Kripa-Electronics.png",
+            "https://www.thinkinno.com/wp-content/uploads/2025/02/Mohite-Developers.png",
+            "https://www.thinkinno.com/wp-content/uploads/2025/02/Nadi-Jyotish.png",
+            "https://www.thinkinno.com/wp-content/uploads/2025/02/Rajani-Modi.png",
+            "https://www.thinkinno.com/wp-content/uploads/2025/02/Silverstron-Fitness.png",
+            "https://www.thinkinno.com/wp-content/uploads/2025/02/Vpinnacle-loans.png",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/enhanskill.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/FloorSketch2.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/FortuneComp.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/GajananKerkar-Goa-Best-Deals.png",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/glasspoint_logo.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/hrelax.png",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/Ideas.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/Kesari-text-logo.png",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/Priya-ankaConsultingCo.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/Rimi-trans.png",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/RMS-Client-JK-e1586940662106.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/Shah-Associates.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/shri-siddhivinayak-tour-travels.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/shubham-loans.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/Silence-Acoustic-1536x283.png",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/site-new-logo.png",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/xpertifi.png",
+            "https://www.thinkinno.com/wp-content/uploads/2023/10/Sehat-Sathi-logo.png",
+            "https://www.thinkinno.com/wp-content/uploads/2023/10/Accent-Accurate-Logo-White.png"
+          ],
+          "logo3" : [
+            "https://www.thinkinno.com/wp-content/uploads/2025/02/Yuvaan-Footbal.png",
+            "https://www.thinkinno.com/wp-content/uploads/2023/07/ace-consultancy-logo.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/07/achievethyself.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/07/Add-design.png",
+            "https://www.thinkinno.com/wp-content/uploads/2023/07/Adid-InteriorDesigners.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/07/anwesha.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/07/ApurvaThakker-KeepinTouch.png",
+            "https://www.thinkinno.com/wp-content/uploads/2023/07/ars-music-logo.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/Logo_vectron_rgb.png",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/logo-nidhi-broking.png",
+            "https://www.thinkinno.com/wp-content/uploads/2023/…yKumarSanjeevKumarElectricals-SanjeevAggrawal.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/WW.png",
+            "https://www.thinkinno.com/wp-content/uploads/2023/10/nutricharge_logo.png",
+            "https://www.thinkinno.com/wp-content/uploads/2024/01/Uptodate-Enterprises.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2024/01/Visha-World.png",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/ManishWadhwa-BhagwatiTraders.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/smartgain.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/space-logo.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2024/08/Srujna-Charitable-Trust.png",
+            "https://www.thinkinno.com/wp-content/uploads/2024/01/Superstar-Events.webp",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/TechwinElectronics.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/Tommy-Mursheed-Vouch-4Me-Videos.png",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/trophic_logo.png",
+            "https://www.thinkinno.com/wp-content/uploads/2023/08/true-space.jpg",
+            "https://www.thinkinno.com/wp-content/uploads/2024/01/logo_My_loanguide.png",
+            "https://www.thinkinno.com/wp-content/uploads/2024/01/Loan-Bazzar.png",
+            "https://www.thinkinno.com/wp-content/uploads/2024/05/Swyom.jpg"
+
+          ] 
+
+        },
+        {
+          "title" : "Serving Globally",
+          "imageLink" : "https://www.thinkinno.com/wp-content/uploads/2024/09/worldMap.jpg"
+        }
+      ]
+    },
     {
       "id": "page2",
       "title": "About",
       "sections": [
         {
-         "title" : "About",
-         "imageLink" : "https://www.thinkinno.com/wp-content/uploads/2023/08/BannerImage.jpg"
+          "title": "About",
+          "imageLink": "https://www.thinkinno.com/wp-content/uploads/2023/08/BannerImage.jpg"
         },
         {
-          "title1" : "About",
-          "title2" : "Who we are",
-          "title3" : "100 +",
-          "title4" : "CLIENTS",
-          "subheading" : "Thinkinno Technologies Private Limited is India based Software Solutions Company. With expertise in Project Management, Designing, Usability, Business Analysis, Development and Testing in the field of Software Development, we provide software development and maintenance services Globally. We are also considered offshore development partners and support multiple applications of our client globally and locally. We have provided software solutions and transformed the ideas into reality in various sectors.",
-          "button" : "Our Services",
-          "imageLink1" : "https://www.thinkinno.com/wp-content/uploads/2023/09/whoweare-1.jpg",
-          "imageLink2" : "https://www.thinkinno.com/wp-content/uploads/2023/10/whoweare2.jpg"
+          "title1": "About",
+          "title2": "Who we are",
+          "title3": "100 +",
+          "title4": "CLIENTS",
+          "subheading": "Thinkinno Technologies Private Limited is India based Software Solutions Company. With expertise in Project Management, Designing, Usability, Business Analysis, Development and Testing in the field of Software Development, we provide software development and maintenance services Globally. We are also considered offshore development partners and support multiple applications of our client globally and locally. We have provided software solutions and transformed the ideas into reality in various sectors.",
+          "button": "Our Services",
+          "imageLink1": "https://www.thinkinno.com/wp-content/uploads/2023/09/whoweare-1.jpg",
+          "imageLink2": "https://www.thinkinno.com/wp-content/uploads/2023/10/whoweare2.jpg"
         },
         {
-          "title1" : "Serving Globally"
+          "title1": "Serving Globally"
         },
         {
-          "title1" : "CORE VALUES",
-          "title2" : "We live by our",
-          "title3" : "CORE VALUES",
-          "subheading1" : "We genuinely believe that our Core Values are the strong base for the overall Purpose and Growth of our Clients, Our Team, and Our Company.",
-          "subheading2" : "Lifelong Relationship",
-          "subheading3" : "Continuous Improvement",
-          "subheading4" : "Your Success is Our Success",
-          "subheading5" : "Add Value … Consistently", 
-          "imageLink1" : "https://www.thinkinno.com/wp-content/uploads/2023/07/team.png",
-          "imageLink2" : "https://www.thinkinno.com/wp-content/uploads/2023/07/performance.png",
-          "imageLink3" : "https://www.thinkinno.com/wp-content/uploads/2023/07/success.png",
-          "imageLink4" : "https://www.thinkinno.com/wp-content/uploads/2023/07/hand.png"
+          "title1": "CORE VALUES",
+          "title2": "We live by our",
+          "title3": "CORE VALUES",
+          "subheading1": "We genuinely believe that our Core Values are the strong base for the overall Purpose and Growth of our Clients, Our Team, and Our Company.",
+          "subheading2": "Lifelong Relationship",
+          "subheading3": "Continuous Improvement",
+          "subheading4": "Your Success is Our Success",
+          "subheading5": "Add Value … Consistently",
+          "imageLink1": "https://www.thinkinno.com/wp-content/uploads/2023/07/team.png",
+          "imageLink2": "https://www.thinkinno.com/wp-content/uploads/2023/07/performance.png",
+          "imageLink3": "https://www.thinkinno.com/wp-content/uploads/2023/07/success.png",
+          "imageLink4": "https://www.thinkinno.com/wp-content/uploads/2023/07/hand.png"
         },
         {
-          "title1" : "Sectors Served",
-          "title2" : "Lead Management & CRM",
-          "title3" : "Banking & Finance",
-          "title4" : "Real Estate",
-          "title5" : "Food Industry",
-          "title6" : "Cargo & Logistic",
-          "title7" : "Data Management (USA FDIC Data)",
-          "title8" : "MS Office AddIn",
-          "title9" : "Construction",
-          "title10" : "Health & Nutrition",
-          "title11" : "Wholesaler & retailer"
-
+          "title1": "Sectors Served",
+          "title2": "Lead Management & CRM",
+          "title3": "Banking & Finance",
+          "title4": "Real Estate",
+          "title5": "Food Industry",
+          "title6": "Cargo & Logistic",
+          "title7": "Data Management (USA FDIC Data)",
+          "title8": "MS Office AddIn",
+          "title9": "Construction",
+          "title10": "Health & Nutrition",
+          "title11": "Wholesaler & retailer"
+        }
+      ]
+    },
+    {
+      "id": "page3",
+      "title": "Services",
+      "sections": [
+        {
+          "title": "Services",
+          "imageLink": "https://www.thinkinno.com/wp-content/uploads/2023/08/BannerImage.jpg"
+        },
+        {
+          "subheading1": "We are passionate about delivering software solutions. It is not about just developing solutions, but adding value to our business partners by understanding and analyzing their need, by suggesting appropriate features and deliver usable solutions.",
+          "subheading2": "We are specialized in developing software solutions and exploit the experience and capability to develop faster and better.",
+          "subheading3": "With great teamwork and diverse specialists, we aspire to develop and deliver solutions that are Inspirational."
+        },
+        {
+          "title": "What We Do",
+          "subheading": "We develop an understanding of requirements and develop custom software solutions. We combine creativity and technical know-how to build custom business experiences. Our processes and user-focused approach helps clients achieve their goal and promote their business growth. Our delivery cycles are frequent and give quick returns of client’s investments.",
+          "button": "Contact Now",
+          "imageLink": "https://www.thinkinno.com/wp-content/uploads/2023/09/whatwedo.png"
+        },
+        {
+          "title1": "Services",
+          "title2": "Our Services",
+          "subheading": "Varied varieties of services to enable your business growth.",
+          "serviceTitle1": "Web Apps",
+          "serviceDesc1": "The custom-based web application projects help to take care of the problems/challenges in the business or to increase customer delight.",
+          "serviceTitle2": "Mobile Apps",
+          "serviceDesc2": "The custom-based mobile applications help to take care of the problems/challenges in the business to perform, monitor, enable better decisions, and meet their business goals.",
+          "serviceTitle3": "AI-based Apps",
+          "serviceDesc3": "Experience AI in action with LIVE projects, from Speech to Text, Text to Speech, Face Recognition, Object Recognition, Data Analytics, Predictive Analytics, Knowledgebank Search, and much more.",
+          "serviceTitle4": "Innovative Consulting",
+          "serviceDesc4": "We know how to apply unique ideas in any capacity. If your business requires attention, we can help develop a solution that tackles the problem in an innovative way.",
+          "serviceTitle5": "Software Testing Services",
+          "serviceDesc5": "You got the project developed but need help testing it. We can test your project manually and through scripts and can give your a list of errors in your project.",
+          "serviceTitle6": "Finance Based Projects",
+          "serviceDesc6": "Developed various projects like Will Mgmt., Loan Mgmt., Competitive Analysis, Forecasting, Interest Rate Risk Mgmt., Goal Mgmt., FDIC Data Analysis, Banks Budgeting & much more.",
+          "button": "Book a Demo"
+        },
+        {
+          "title1": "Testimonial",
+          "title2": "What Clients' Says",
+          "serviceType1": "Custom Apps",
+          "country1": "USA",
+          "review1": "Love this company. This company",
+          "readMore1": "Read more",
+          "clientName1": "Mr. Craig Hartman (President)",
+          "clientCompany1": "Plansmith Corporation (USA)",
+          "serviceType2": "Custom Apps",
+          "country2": "USA",
+          "review2": "Hiring a company to code",
+          "readMore2": "Read more",
+          "clientName2": "Ms. Susan West (CEO)",
+          "clientCompany2": "Plansmith Corporation (USA)",
+          "serviceType3": "Custom Apps",
+          "country3": "India",
+          "review3": "We contacted Thinkinno while switching",
+          "readMore3": "Read more",
+          "clientName3": "Ms. Gargi Bhave",
+          "clientCompany3": "Ameretat Technologies Pvt. Ltd (INDIA)",
+          "serviceType4": "Custom Apps",
+          "country4": "UAE",
+          "review4": "I worked with Thinkinno for",
+          "readMore4": "Read more",
+          "clientName4": "Mr. Preetish Gupta",
+          "clientCompany4": "Doodle Worldwide (UAE)",
+          "serviceType5": "Custom Apps",
+          "country5": "USA",
+          "review5": "Thinkinno has been with Plansmith",
+          "readMore5": "Read more",
+          "clientName5": "Mr. C Hartman",
+          "clientCompany5": "Plansmith Corporation (USA)",
+          "serviceType6": "Custom Apps",
+          "country6": "USA",
+          "review6": "Thinkinno has done an excellent",
+          "readMore6": "Read more",
+          "clientName6": "Mr. George Mueller (Vice President)",
+          "clientCompany6": "Plansmith Corporation (USA)",
+          "serviceType7": "Custom Apps",
+          "country7": "USA",
+          "review7": "I'm impressed with Thinkinno’s work.",
+          "readMore7": "Read more",
+          "clientName7": "Mr. Marcin Wolski (CEO)",
+          "clientCompany7": "Wolski Windows (USA)",
+          "serviceType8": "Custom Apps",
+          "country8": "India",
+          "review8": "I've been working with Thinkinno",
+          "readMore8": "Read more",
+          "clientName8": "Mr. Pravin Shinde (Project Coordinator)",
+          "clientCompany8": "Trophic Wellness (INDIA)",
+          "serviceType9": "Custom Apps",
+          "country9": "India",
+          "review9": "Thinkinno is the best offshore",
+          "readMore9": "Read more",
+          "clientName9": "Vipul Prajapati",
+          "clientCompany9": "INDIA",
+          "serviceType10": "Custom Apps",
+          "country10": "India",
+          "review10": "Thinkinno has an exceptional team",
+          "readMore10": "Read more",
+          "clientName10": "Sunil S Nair",
+          "clientCompany10": "INDIA",
+          "serviceType11": "Custom Apps",
+          "country11": "India",
+          "review11": "They are very professional and",
+          "readMore11": "Read more",
+          "clientName11": "Pranjali Madnani",
+          "clientCompany11": "WillBee (INDIA)",
+          "button": "Book a Demo"
         }
       ]
     }
   ],
-
-  "header" : {
-    "imageLink1" : "https://www.thinkinno.com/wp-content/uploads/2023/07/cropped-Thinkinno_logo_500.png",
-    "nav1" : "Home",
+  "header": {
+    "imageLink1": "https://www.thinkinno.com/wp-content/uploads/2023/07/cropped-Thinkinno_logo_500.png",
+    "nav1": "Home",
     "nav2": "About",
-    "nav3" : "Services",
-    "nav4" : {
-      "title" : "Solutions",
-      "menu1" : "LeadVictor – lead management system",
-      "menu2" : "DigiCard – An online visiting card",
-      "menu3" : "LMS – loan management system",
-      "menu4" : "Cargo Tracking System",
-      "menu5" : "KAMS – Key Account Management System",
-      "menu6" : "QMS – Quotation Management System",
-      "menu7" : "eCommerce"
+    "nav3": "Services",
+    "nav4": {
+      "title": "Solutions",
+      "menu1": "LeadVictor – lead management system",
+      "menu2": "DigiCard – An online visiting card",
+      "menu3": "LMS – loan management system",
+      "menu4": "Cargo Tracking System",
+      "menu5": "KAMS – Key Account Management System",
+      "menu6": "QMS – Quotation Management System",
+      "menu7": "eCommerce"
     },
-    "nav5" : "Testimonials",
-    "nav6" : "Case Studies",
-    "nav7" : {
-      "title" :  "Careers",
-      "menu1" : "Current Openings",
-      "menu2" : "Life @ Thinkinno"
+    "nav5": "Testimonials",
+    "nav6": "Case Studies",
+    "nav7": {
+      "title": "Careers",
+      "menu1": "Current Openings",
+      "menu2": "Life @ Thinkinno"
     },
-    "nav8" : "Contact"
+    "nav8": "Contact"
   },
-
-  "footer" : [
+  "footer": [
     {
-      "title1" : "EMAIL:",
-      "subheading" : "info@thinkinno.com",
-      "button" : "Contact Us"
+      "title1": "EMAIL:",
+      "subheading": "info@thinkinno.com",
+      "button": "Contact Us"
     },
     [
       {
-        "title1" : "About Company",
-        "subheading" : "Thinkinno Technologies Private Limited is India based Software Solutions Company, incorporated in 2013. Our team is specialized in developing software solutions and exploit the same to develop faster and better."
+        "title1": "About Company",
+        "subheading": "Thinkinno Technologies Private Limited is India based Software Solutions Company, incorporated in 2013. Our team is specialized in developing software solutions and exploit the same to develop faster and better."
       },
       {
-        "title2" : "Quick Links",
-        "menu1" : "Home",
-        "menu2" : "About Us",
-        "menu3" : "Services",
-        "menu4" : "Solutions",
-        "menu5" : "Testimonials",
-        "menu6" : "Contact Us",
-        "menu7" : "Blog"
-       },
-       {
-        "title" : "Solutions",
-        "menu1" : "Lead Mgmt. & CRM",
-        "menu2" : "DigiCard",
-        "menu3" : "Loan Mgmt.",
-        "menu4" : "Cargo Tracker",
-        "menu5" : "Account Mgmt.",
-        "menu6" : "Quotation Mgmt."
-       },
-
-       {
-        "title" : "Contact",
-        "subheading" : "601, Sanghvi Jewel, Off. S.V. Road, Malad West,Mumbai – 400064. India.",
-        "link1" : "info@thinkinno.com",
-        "copyright" : "Copyright © Thinkinno Technologies Pvt. Ltd.  2026 All Right Reserved | Privacy Policy"
-
-       }
+        "title2": "Quick Links",
+        "menu1": "Home",
+        "menu2": "About Us",
+        "menu3": "Services",
+        "menu4": "Solutions",
+        "menu5": "Testimonials",
+        "menu6": "Contact Us",
+        "menu7": "Blog"
+      },
+      {
+        "title": "Solutions",
+        "menu1": "Lead Mgmt. & CRM",
+        "menu2": "DigiCard",
+        "menu3": "Loan Mgmt.",
+        "menu4": "Cargo Tracker",
+        "menu5": "Account Mgmt.",
+        "menu6": "Quotation Mgmt."
+      },
+      {
+        "title": "Contact",
+        "subheading": "601, Sanghvi Jewel, Off. S.V. Road, Malad West,Mumbai – 400064. India.",
+        "link1": "info@thinkinno.com",
+        "copyright": "Copyright © Thinkinno Technologies Pvt. Ltd.  2026 All Right Reserved | Privacy Policy"
+      }
     ]
   ]
 }
