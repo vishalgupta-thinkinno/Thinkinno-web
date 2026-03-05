@@ -52,7 +52,7 @@ function App() {
   return (
     <>
     <div className='headerTopPadding'>
-      <Header  />
+     <Header  /> 
       <Routes>
         <Route path="/" element={<Home/>} />
         <Route path='/about' element={<About/>} />
@@ -70,7 +70,8 @@ function App() {
         <Route path='/careers' element={<Careers/>} />
         <Route path='/lifeThinkinno' element={<LifeThinkinno/>} />
         <Route path='/contact' element={<Contact/>}  />
-      </Routes>
+      </Routes> 
+      
       <Footer />
       </div>
     </>
